@@ -1,0 +1,1 @@
+﻿D:\Projects\AT32F421\Middlewares\FreeRTOS\source\portable\IAR\ARM_CM4F\portasm.s -OD:\Projects\AT32F421\Debug\Obj\Middlewares\FreeRTOS\source\portable\IAR\ARM_CM4F -s+ -M<> -w+ -r --cpu Cortex-M4 --fpu None

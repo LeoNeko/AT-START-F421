@@ -1,0 +1,37 @@
+D:\Projects\AT32F421\Debug\BrowseInfo\Drivers\AT32F421_HAL_Driver\Src\at32f421_dma.pbi: \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Src\at32f421_dma.c \
+  D:\Projects\AT32F421\Core\Inc\at32f421_conf.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_crm.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\device_support\at32f421.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\core_support\core_cm4.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\core_support\cmsis_version.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\core_support\cmsis_compiler.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\core_support\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\core_support\mpu_armv7.h \
+  D:\Projects\AT32F421\Drivers\CMSIS\cm4\device_support\system_at32f421.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_def.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_cmp.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_tmr.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_ertc.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_gpio.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_i2c.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_usart.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_pwc.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_adc.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_spi.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_dma.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_debug.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_flash.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_crc.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_wwdt.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_wdt.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_exint.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_misc.h \
+  D:\Projects\AT32F421\Drivers\AT32F421_HAL_Driver\Inc\at32f421_scfg.h
